@@ -2,15 +2,13 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/09601086-a36c-429d-ac62-3772a623b2b1
+**URL**:https://slide-wave-page.vercel.app/
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-**Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/09601086-a36c-429d-ac62-3772a623b2b1) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
