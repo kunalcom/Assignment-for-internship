@@ -35,7 +35,7 @@ const HeroSection = () => {
       <div className="relative h-full flex items-center justify-center px-4">
         <div className="text-center max-w-5xl animate-fade-in-up">
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold mb-6 tracking-tight">
-            <span className="block text-primary">Global Commodity</span>
+            <span className="block text-primary">Global</span>
             <span className="block text-accent text-shadow-glow">
               Trading Excellence
             </span>
