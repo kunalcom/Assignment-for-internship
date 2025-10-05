@@ -1,4 +1,7 @@
 # Welcome to your Montfort project
+<p align="center">
+  <img src="./src/Screenshot (121).png" alt="Montfort Project Banner" width="80%" />
+</p>
 
 ## Project info
 
