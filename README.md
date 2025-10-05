@@ -1,4 +1,4 @@
-# Welcome to your Montfort project
+#   Montfort  website creation assignment
 <p align="center">
   <img src="./src/Screenshot (116).png" alt="Montfort Project Banner" width="80%" />
 </p>
