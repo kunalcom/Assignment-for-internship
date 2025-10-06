@@ -105,7 +105,7 @@ const HeroSection = () => {
         ref={audioRef}
         loop
         preload="auto"
-        src="http://commondatastorage.googleapis.com/codeskulptor-demos/DDR_assets/Kangaroo_MusiQue_-_The_Neverwritten_Role_Playing_Game.mp3"
+        src="http://commondatastorage.googleapis.com/codeskulptor-assets/Epoq-Lepidoptera.ogg"
       />
 
       <section className="relative h-screen overflow-hidden">
