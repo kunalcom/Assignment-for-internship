@@ -6,6 +6,7 @@ import InvestmentsSection from "@/components/montfort/InvestmentsSection";
 import SustainabilitySection from "@/components/montfort/SustainabilitySection";
 import ContactSection from "@/components/montfort/ContactSection";
 import Footer from "@/components/montfort/Footer";
+import BackgroundMusic from "@/components/montfort/BackgroundMusic";
 
 const Index = () => {
   return (
@@ -20,6 +21,7 @@ const Index = () => {
         <ContactSection />
       </main>
       <Footer />
+      <BackgroundMusic />
     </div>
   );
 };
